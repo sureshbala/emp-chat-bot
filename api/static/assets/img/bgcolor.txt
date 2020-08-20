@@ -1,0 +1,5 @@
+male chat box- bg - #eef0f1
+
+female - #f1e1dd
+
+#fd3453
